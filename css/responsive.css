@@ -1,0 +1,252 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(max-width: 575.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .navbar {
+        padding: 8px 0px;
+    }
+    .navbar .container {
+        padding: 0 16px;
+    }
+    .banner_text p{
+        padding:0px;
+    }
+    .banner_text {
+        padding: 130px 0px 70px 0px;
+    }
+    .banner_text h2 {
+        font-size: 50px;
+    }
+    .banner_text p {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .banner_text a {
+        font-size: 22px;
+        padding: 7px 26px;
+        margin-top: 30px;
+    }
+    #service_part {
+        padding: 65px 0px;
+    }
+    .service_text {
+        padding-bottom: 50px;
+    }
+    #portfolio_part {
+        padding: 40px 0px 55px 0px;
+    }
+    .portfolio_head h2 {
+        padding-bottom: 35px;
+    }
+    .portfolio_image2,
+    .portfolio_image3,
+    .portfolio_image4,
+    .portfolio_image5,
+    .portfolio_image6{
+        margin-top:30px;
+        text-align:center;
+    }
+    .portfolio_image1{
+        text-align:center;
+    }
+    .team_member img {
+        margin: 0 auto 70px auto;
+    }
+    #team_part {
+        padding: 60px 0px 70px 0px;
+    }
+    .team_head h2 {
+        padding-bottom: 70px;
+    }
+    #pricing_part {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pricing_info {
+        margin-top: 35px;
+    }
+    #testimonial_part {
+        padding: 70px 0px 60px 0px;
+    }
+    .testimonial_slider_text p {
+        width: 82%;
+    }
+    .testimonial_text_top h2 {
+        padding-bottom: 25px;
+    }
+    .testimonial_slider_text p {
+        padding-bottom: 30px;
+    }
+    #contact_part {
+        padding: 80px 0px;
+    }
+    .contact_head h2 {
+        padding-bottom: 70px;
+    }
+    .contact_right input[type="text"] {
+        width: 100%;
+    }
+    .contact_right input[type="email"] {
+        width: 100%;
+        margin-left: 0;
+    }
+    .contact_right {
+        margin-top: 40px;
+    }
+
+}
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width: 576px) and (max-width: 767.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .navbar {
+        padding: 8px 0px;
+    }
+    .banner_text {
+        padding: 150px 0px 100px 0px;
+    }
+    .banner_text h2 {
+        font-size: 50px;
+    }
+    .banner_text p {
+        font-size: 21px;
+        padding:0px;
+    }
+    .banner_text a {
+        font-size: 22px;
+        padding: 7px 26px;
+        margin-top: 30px;
+    }
+    #service_part {
+        padding: 65px 0px;
+    }
+    .service_text {
+        padding-bottom: 50px;
+    }
+    #portfolio_part {
+        padding: 40px 0px 55px 0px;
+    }
+    .portfolio_head h2 {
+        padding-bottom: 35px;
+    }
+    .portfolio_image3,
+    .portfolio_image4,
+    .portfolio_image5,
+    .portfolio_image6{
+        margin-top:30px;
+    }
+    #team_part {
+        padding: 60px 0px 70px 0px;
+    }
+    .team_head h2 {
+        padding-bottom: 70px;
+    }
+    #pricing_part {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pricing_info {
+        margin-top: 35px;
+    }
+    #testimonial_part {
+        padding: 70px 0px 60px 0px;
+    }
+    .testimonial_slider_text p {
+        width: 82%;
+    }
+    .testimonial_text_top h2 {
+        padding-bottom: 25px;
+    }
+    .testimonial_slider_text p {
+        padding-bottom: 30px;
+    }
+    #contact_part {
+        padding: 80px 0px;
+    }
+    .contact_head h2 {
+        padding-bottom: 70px;
+    }
+    .contact_right input[type="text"] {
+        width: 100%;
+    }
+    .contact_right input[type="email"] {
+        width: 100%;
+        margin-left: 0;
+    }
+    .contact_right {
+        margin-top: 40px;
+    }
+    
+}
+
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width: 768px) and (max-width: 991.98px) { 
+
+    .openNav{
+        display:block;
+    }
+    .navbar {
+        padding: 8px 0px;
+    }
+    .banner_text p{
+        padding:0px;
+    }
+    .service_text {
+        padding-bottom: 50px;
+    }
+    .pricing_info {
+        margin-top: 50px;
+    }
+    .testimonial_slider_text p {
+        width: 80%;
+    }
+    .contact_right input[type="text"] {
+        width: 97%;
+    }
+    .contact_right input[type="email"] {
+        width: 97%;
+        margin-left: auto;
+    }
+    .contact_right{
+        margin-top:50px;
+    }
+    
+}
+
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+
+}
+
+
+
